@@ -1,0 +1,17 @@
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\bin\Debug\Task5.exe.config
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\bin\Debug\Task5.exe
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\bin\Debug\Task5.pdb
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form1.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Properties.Resources.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.exe
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.pdb
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form2.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form3.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form4.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form5.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form6.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form7.resources
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet4\Task5\obj\Debug\Task5.Form8.resources
